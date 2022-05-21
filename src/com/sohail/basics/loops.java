@@ -1,4 +1,4 @@
-package com.sohail;
+package com.sohail.basics;
 
 public class loops {
     public static void main(String[] args) {

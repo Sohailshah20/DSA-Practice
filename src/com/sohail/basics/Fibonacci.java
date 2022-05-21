@@ -1,4 +1,4 @@
-package com.sohail;
+package com.sohail.basics;
 
 import java.util.Scanner;
 
